@@ -2,6 +2,13 @@
 End-to-end analysis of 19K+ customer records using SQL for data ingestion and Power BI for retention strategy visualization.
 ## 📊 Dashboard Preview
 ![Dashboard Preview](https://github.com/Sakshi0523/Customer-Churn-Analysis/blob/main/Images/churn_dashboard_image.png?raw=true)
+
+## 🛠️ Technical Skills
+* **SQL:** Data cleaning & ingestion of 19,250+ records.
+* **Power BI:** Interactive dashboarding & data storytelling.
+* **DAX:** Custom measures for Churn % & Retention impact.
+* **Analysis:** Customer segmentation & tenure risk profiling.
+
 ## 📈 Executive Summary of Findings
 After analyzing 19,250 customer records, the following key drivers for churn were identified:
 
