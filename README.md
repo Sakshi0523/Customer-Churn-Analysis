@@ -20,6 +20,6 @@ After analyzing 19,250 customer records, the following key drivers for churn wer
 4. **Revenue Stability:** Month-to-month contracts and manual payment methods (Mailed Checks) are the leading predictors of revenue loss.
 
 ## 🚀 How to Use
-1. Download `Customer_Churn.pbix`
+1. Download 'Customer_churn_analysis.pbix'
 2. Open in Power BI Desktop
 3. Use filters (State, Contract, Gender) to explore segments
